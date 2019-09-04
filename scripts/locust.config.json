@@ -1,4 +1,4 @@
 {
-  "target": "https://alamo.helium.foundation",
+  "target": "hostname",
   "locusts": ["BlockLocust", "ChallengeLocust"]
 }

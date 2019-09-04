@@ -5,6 +5,7 @@
 - docker-compose
 
 ## Run
+- Edit "target" in scripts/locust.config.json
 - ./run.sh
 - Go to localhost:8089
 - Enter total users to mock (say 1000)
